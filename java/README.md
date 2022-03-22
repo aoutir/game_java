@@ -1,6 +1,6 @@
 
 
-Pour lancer le jeu, dans la classe Play, vérifier que à
+Pour lancer le jeu, dans la classe Play vérifier que à
 la ligne 32 
 vous ayez bien l'intruction : 
 final Game game = new Enigme();
