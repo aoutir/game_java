@@ -8,7 +8,8 @@ final Game game = new Enigme();
 
 # Controles :                               
 
-Touches :                           
+Touches :    
+
 Flèche du haut:                             avance vers le haut.
 
 Flèche du bas:                               avance vers le bas.
