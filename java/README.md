@@ -1,19 +1,19 @@
-README
 
-Pour lancer le jeu, dans la classe Play, vŽrifier quÕˆ 
+
+Pour lancer le jeu, dans la classe Play, vérifier que
 la ligne 32 
-vous ayez bien lÕintruction : 
-Ófinal Game game = new Enigme();Ó
+vous ayez bien l'intruction : 
+final Game game = new Enigme();
 
 
-Controles :                                Effet :
+# Controles :                                Effet :
 
 Touches :                           
-Flche du haut                              avance vers le haut
-Flche du bas                               avance vers le bas
-Flche de droite                            avance vers la 
+Flèche du haut                              avance vers le haut
+Flèche du bas                               avance vers le bas
+Flèche de droite                            avance vers la 
 droite
-Flche de gauche                            avance vers la 
+Flèche de gauche                            avance vers la 
 gauche
 
 
@@ -23,42 +23,42 @@ L                                           interaction a distance
 
 
 
-Deroulement du jeu :
+# Deroulement du jeu :
 
-Les levels 1,2,3 nÕont aucune modification par 
-rapport ˆ lÕŽnoncŽ.
+Les levels 1,2,3 n'ont aucune modification par 
+rapport à l'énoncé.
 
-Ajout en extension dÕun Enigme0. Ce level ne sert 
-pas ˆ grand-chose 
-hormis accŽdŽ ˆ un autre niveau.
+Ajout en extension d'un Enigme0. Ce level ne sert 
+pas à grand-chose 
+hormis accédé un autre niveau.
 
-Vous pouvez dŽbloquer la porte au bout de la 
-pice en poussant la 
+Vous pouvez débloquer la porte au bout de la 
+piéce en poussant la 
 roche sur le bouton pression (en appuyant sur la 
 touche L devant le 
 roche) et en la laissant dessus. 
 
-Vous accŽdŽs alors ˆ Enigme1. Vous devez rŽussir 
-ˆ atteindre la 
-maison situŽe tout au bout de la carte, en face de 
-o votre 
-personnage appara”t.  Vous pouvez interagir avec 
+Vous accédé alors à Enigme1. Vous devez réussir 
+à atteindre la 
+maison situé tout au bout de la carte, en face de 
+votre 
+personnage apparait.  Vous pouvez interagir avec 
 le vieux bonhomme 
-(le message sÕaffiche incorrecte avec Mac), il vous 
+(le message s'affiche incorrecte avec Mac), il vous 
 annonce que vous 
-devez collectŽ des coins et des golds pour pouvoir 
-accŽder dans une 
-salle o se trouve deux monstres que vous ne 
+devez collecter des coins et des golds pour pouvoir 
+accéder dans une 
+salle ou se trouve deux monstres que vous ne 
 pourrez pas battre tant 
-que vous nÕaurez pas rŽcupŽrer une ŽpŽe, un 
+que vous n'aurez pas récupèrer une épée, un 
 bouclier et un casque.
-Si vous essayer dÕattaquer les monstres sans 
-Žquipement, vous serez 
+Si vous essayer d'attaquer les monstres sans 
+équipement, vous serez 
 gentiment averti que vous ne pouvez pas les 
 battre.
 
 Une fois battu, vous pourrez passer dans la 
-dernire pice, o vous 
+dernière piéce, ou vous 
 pourrez retourner dans LevelSelector. 
 
 
