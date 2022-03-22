@@ -1,4 +1,4 @@
-## Grid Game 
+# Grid Game 
 
 Pour lancer le jeu, dans la classe Play vérifier que à
 la ligne 32 
@@ -6,7 +6,7 @@ vous ayez bien l'intruction :
 final Game game = new Enigme();
 
 
-# Controles :                               
+## Controles :                               
 
 Touches :    
 
@@ -25,7 +25,7 @@ L :                                          interaction a distance.
 
 
 
-# Deroulement du jeu :
+## Deroulement du jeu :
 
 Les levels 1,2,3 n'ont aucune modification par 
 rapport à l'énoncé.
@@ -64,7 +64,7 @@ dernière piéce, ou vous
 pourrez retourner dans LevelSelector. 
 
 
-# Contributions: 
+## Contributions: 
 
 * Hafsa Aoutir (hafsa.aoutir@epfl.ch)
 * Bouchet Douglas Paul Armand (douglas.bouchet@epfl.ch)
