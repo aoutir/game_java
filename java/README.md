@@ -64,8 +64,10 @@ dernière piéce, ou vous
 pourrez retourner dans LevelSelector. 
 
 
+# Contributions: 
 
-
+* Hafsa Aoutir (hafsa.aoutir@epfl.ch)
+* Bouchet Douglas Paul Armand (douglas.bouchet@epfl.ch)
 
 
 
