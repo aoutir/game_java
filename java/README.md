@@ -6,19 +6,15 @@ vous ayez bien l'intruction :
 final Game game = new Enigme();
 
 
-# Controles :                                Effet :
+# Controles :                               
 
 Touches :                           
-Flèche du haut                              avance vers le haut
-Flèche du bas                               avance vers le bas
-Flèche de droite                            avance vers la 
-droite
-Flèche de gauche                            avance vers la 
-gauche
-
-
-Espace.                                     Met le jeu en pause
-L                                           interaction a distance
+Flèche du haut:                             avance vers le haut.
+Flèche du bas:                               avance vers le bas.
+Flèche de droite:                            avance vers la droite.
+Flèche de gauche:                            avance vers la gauche.
+Espace:                                      Met le jeu en pause.
+L :                                          interaction a distance.
 
 
 
