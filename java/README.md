@@ -30,9 +30,9 @@ L :                                          interaction a distance.
 Les levels 1,2,3 n'ont aucune modification par 
 rapport à l'énoncé.
 
-Ajout en extension d'un Enigme0. Ce level ne sert 
+Ajout en extension d'un niveau Enigme0 (Ce level ne sert 
 pas à grand-chose 
-hormis accédé un autre niveau.
+hormis accédé un autre niveau)
 
 Vous pouvez débloquer la porte au bout de la 
 piéce en poussant la 
@@ -40,7 +40,7 @@ roche sur le bouton pression (en appuyant sur la
 touche L devant le 
 roche) et en la laissant dessus. 
 
-Vous accédé alors à Enigme1. Vous devez réussir 
+Vous accédé alors au niveau Enigme1. Vous devez réussir 
 à atteindre la 
 maison situé tout au bout de la carte, en face de 
 votre 
